@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56">
+  <defs><linearGradient id="r" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ff5f6d"><animate attributeName="stop-color" values="#ff5f6d;#ffc371;#47e891;#5be0ff;#c8b6ff;#fea0c0;#ff5f6d" dur="5s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#5be0ff"><animate attributeName="stop-color" values="#5be0ff;#c8b6ff;#fea0c0;#ff5f6d;#ffc371;#47e891;#5be0ff" dur="5s" repeatCount="indefinite"/></stop>
+  </linearGradient></defs>
+  <rect x="0" y="40" width="1200" height="3" fill="#121a33"/>
+  <rect x="0" y="40" width="240" height="3" fill="url(#r)">
+    <animate attributeName="x" values="0;960;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <text x="0" y="28" font-family="Verdana, Geneva, sans-serif" font-size="24" font-weight="bold" fill="url(#r)">DRAG & DROP PUBLISHING</text>
+</svg>

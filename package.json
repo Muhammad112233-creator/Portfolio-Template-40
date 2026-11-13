@@ -1,0 +1,32 @@
+{
+  "name": "playmode-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A gamified 3D portfolio template — wanted-poster intro, island voyage, game HUD. Next.js + React Three Fiber + GSAP + Lenis + Tailwind v4.",
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0 --port 3000",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0 --port 3000",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.6",
+    "@react-three/fiber": "^9.3.0",
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.11",
+    "next": "^15.5.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "three": "^0.180.0",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@types/three": "^0.180.0",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2"
+  }
+}

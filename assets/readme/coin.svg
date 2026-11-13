@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g transform="translate(24 24)">
+    <ellipse rx="18" ry="18" fill="#f2c94c" stroke="#a0264f" stroke-width="2">
+      <animate attributeName="rx" values="18;4;18" dur="1.8s" repeatCount="indefinite"/>
+    </ellipse>
+    <text y="6" text-anchor="middle" font-family="Verdana" font-size="16" font-weight="bold" fill="#a0264f">P</text>
+  </g>
+</svg>
